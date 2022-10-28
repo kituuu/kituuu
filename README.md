@@ -1,10 +1,12 @@
+[![@kituuu's Holopin board](https://holopin.me/kituuu)](https://holopin.io/@kituuu)
+
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
 
 ### <div align="center">I'm Karthik, a first-year B.Tech Student 👀 learning new stuff everyday 🚀</div>  
-  
+
 
 - 🌱 I’m currently learning DSA and JavaScript  
   
@@ -93,21 +95,4 @@
 <br/>  
 
 
-## Recent Blog Posts  
-  
 
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=nxtvpbkw7cn339exnf9cwlqzk&cover_image=true&theme=default&show_offline=false&bar_color_cover=true" /></div>  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
