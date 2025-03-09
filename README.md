@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ayangarkarthik) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kituuu) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ayangar7118)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ayangarkarthik) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kituuu) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/3VIL_T3DDY)
 
 # 💻 Tech Stack:
 
@@ -12,21 +12,15 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=kituuu&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kituuu&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kituuu&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://personal-gh-stats.vercel.app/api?username=kituuu&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats-lake-tau.vercel.app/?user=kituuu&theme=gotham&hide_border=false)<br/>
+![](https://personal-gh-stats.vercel.app/api/top-langs/?username=kituuu&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-
-[![](https://visitcount.itsvg.in/api?id=kituuu&icon=6&color=12)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=kituuu&icon=6&color=12)](https://visitcount.itsvg.in) -->
 
 ## 💰 You can help me by Donating
 
